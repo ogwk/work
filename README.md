@@ -4,9 +4,9 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|小川　佳納|
+|活動地域|大阪市内|
+|GitHub|[@ogwk]([https://github.com/ogwk])|
 
 ## スキル
 ### 言語
