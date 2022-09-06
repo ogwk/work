@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary><strong>その他/strong></summary>
+<summary><strong>その他</strong></summary>
     
 |言語|経験年数|レベル|
 |---|-----|-----|
