@@ -95,7 +95,7 @@
 ## 副業
 
 ### WordPressでWebサイトの制作
-* [serendipity]([https://serendipity-rr.com/)
+* [serendipity](https://serendipity-rr.com/)
 
 ### Flutterで管理画面の開発
 
