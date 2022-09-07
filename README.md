@@ -6,7 +6,7 @@
 |---|-----|
 |Name|小川　佳納|
 |活動地域|大阪市内|
-|GitHub|[@ogwk]([https://github.com/ogwk])|
+|GitHub|[@ogwk](https://github.com/ogwk)|
 
 ## 学歴・職歴
 |年月|職歴|
@@ -95,7 +95,7 @@
 ## 副業
 
 ### WordPressでWebサイトの制作
-* [serendipity]([そのサービスのランディングページのリンクとか](https://serendipity-rr.com/))
+* [serendipity]([https://serendipity-rr.com/)
 
 ### Flutterで管理画面の開発
 
