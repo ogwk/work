@@ -28,11 +28,6 @@
 - Excel VBA
 - Access VBA
 
-## 勉強中のもの
-- Flutter
-- Firebase
-
-
 ## スキル
 <details>
 <summary><strong>プログラム言語</strong></summary>
@@ -41,8 +36,9 @@
 |---|-----|-----|
 | HTML | 1年 | 模写などが問題なく実施できる。 |
 | CSS | 1年 | 模写などが問題なく実施できる。 |
-| Sass | 半年 | 使える。 |
-| ExcelVBA | 3年 | 実務でつかえる。 |
+| Sass | 半年 | 基本的なコーディングはできる。 |
+| VBA | 3年 | 実務でつかえる。 |
+| GAS | 半年 | 基本的なコーディングはできる。 |
 
 等
 </details>
@@ -69,6 +65,10 @@
 等
 </details>
 
+
+## 勉強中のもの
+- Flutter
+- Firebase
 
 ## 職務経歴
 
@@ -97,9 +97,9 @@
 ### WordPressでWebサイトの制作
 * [serendipity](https://serendipity-rr.com/)
 
-### Flutterで管理画面の開発
+### 学習アプリの管理画面の開発（Flutter)
 
-### ランディングページのコーディング
+### ランディングページのコーディング（HTML、CSS、Sass)
 
 
 ## 自己PR
