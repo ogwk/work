@@ -32,7 +32,7 @@
 
 ## スキル
 <details>
-<summary><strong>プログラム言語</strong></summary>
+<summary><strong>プログラミング言語</strong></summary>
     
 |言語|経験年数|レベル|
 |---|-----|-----|
