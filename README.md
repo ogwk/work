@@ -99,6 +99,7 @@
 ## 副業、その他
 
 * WordPressでWebサイトの制作
+
 　　　　[serendipity](https://serendipity-rr.com/)
 
 * 学習アプリの管理画面の開発（Flutter)
