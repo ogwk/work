@@ -28,6 +28,7 @@
 ### 言語
 - Excel VBA
 - Access VBA
+- SQL　Server
 
 ## スキル
 <details>
