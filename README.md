@@ -96,14 +96,14 @@
 
 ## 副業、その他
 
-### WordPressでWebサイトの制作
-* [serendipity](https://serendipity-rr.com/)
+* WordPressでWebサイトの制作
+　　　　[serendipity](https://serendipity-rr.com/)
 
-### 学習アプリの管理画面の開発（Flutter)
+* 学習アプリの管理画面の開発（Flutter)
 
-### ランディングページのコーディング（HTML、CSS、Sass)
+* ランディングページのコーディング（HTML、CSS、Sass)
 
-### GASでスプレッドシート作業の効率化
+* GASでスプレッドシート作業の効率化
 
 
 ## 自己PR
@@ -116,7 +116,7 @@
 
  将来的には、Webアプリケーションの開発に携わり、ユーザーが使いたいと思えるようなアプリケーションを突き詰めて開発していきたいと考えております。
  現在は、Flutter、Firestoreを学習しております。
- 以上
+
 
     
    
